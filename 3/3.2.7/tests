@@ -2,6 +2,9 @@ test #1
 input: Balakirev
 output: aaie
 
+s = str(input())
+print(s[1::2])
+
 test #2
 input: Python!
 output: yhn
